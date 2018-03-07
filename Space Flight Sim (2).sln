@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Space Flight Sim (2).Plugins", "Space Flight Sim (2).Plugins.csproj", "{5729A035-D21E-2391-7133-B67CC5E50C5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Space Flight Sim (2)", "Space Flight Sim (2).csproj", "{85A7274C-2A99-ECD6-A79B-81E31B3A1EB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Space Flight Sim (2).Editor.Plugins", "Space Flight Sim (2).Editor.Plugins.csproj", "{5FC9AD14-1BCD-0034-4001-E81A8DA76573}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5729A035-D21E-2391-7133-B67CC5E50C5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5729A035-D21E-2391-7133-B67CC5E50C5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5729A035-D21E-2391-7133-B67CC5E50C5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5729A035-D21E-2391-7133-B67CC5E50C5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85A7274C-2A99-ECD6-A79B-81E31B3A1EB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85A7274C-2A99-ECD6-A79B-81E31B3A1EB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85A7274C-2A99-ECD6-A79B-81E31B3A1EB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85A7274C-2A99-ECD6-A79B-81E31B3A1EB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FC9AD14-1BCD-0034-4001-E81A8DA76573}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FC9AD14-1BCD-0034-4001-E81A8DA76573}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FC9AD14-1BCD-0034-4001-E81A8DA76573}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FC9AD14-1BCD-0034-4001-E81A8DA76573}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
